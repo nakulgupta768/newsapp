@@ -30,7 +30,7 @@ class _HomeState extends State<Home> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text("News"),
-            Text("Wave", style: TextStyle(
+            Text("App", style: TextStyle(
               color: Colors.blue
             ),)
           ],
